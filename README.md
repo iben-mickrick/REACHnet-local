@@ -1,5 +1,7 @@
 # REACHnet-local Iteration 1b
-The SAS code included in this repository comes from the base ADAPTABLE computable phenotype from the PCORnet Coordinating Center. The code includes additional exclusions to meet the requests/requirments of local investigators. Specificially, these exclusions include:
+The SAS code included in this repository comes from the base ADAPTABLE computable phenotype from the PCORnet Coordinating Center. It differs from REACHnet-local Iteration 1a in reference dates only. This code was run on newly refreshed data, requiring an update to the dates used to identify eligibility criteria.   
+
+The code includes additional exclusions to meet the requests/requirments of local investigators. Specificially, these exclusions include:
 ##REACHnet local exclusions/inclusions 
 *  ICD9 & ICD10 codes for **atrial fibrillation** 
 *  ICD9 & ICD10 codes for **long term anticogulant use** 
